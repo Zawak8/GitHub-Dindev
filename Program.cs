@@ -7,6 +7,9 @@
             Console.Write("Enter Number: ");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine(a);
+            int b = int.Parse(Console.ReadLine());
+            Console.WriteLine(a);
+
         }
     }
 }
